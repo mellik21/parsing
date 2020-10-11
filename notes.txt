@@ -1,0 +1,10 @@
+to start new scrapy project:
+    scrapy startproject myproject [project_dir]
+
+to delete directory in linux shell:
+    rm -r dir1
+
+
+css-1dbjc4n r-1iusvr4 r-16y2uox r-1777fci r-1mi0q7o
+
+css-901oao r-hkyrab r-1qd0xha r-a023e6 r-16dba41 r-ad9z0x r-bcqeeo r-bnwqim r-qvutc0
